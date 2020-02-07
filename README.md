@@ -49,6 +49,6 @@ If you do not add a license file it is not open source and no one will use this 
 
 ### Make sure you
 
-Keep all documentation and decision making in the open to increase transparancy. Avoid 'hallway decisions'
-Add these within your README.md file or create separate files in your project repository
-Add a CHANGELOG.md file to track changes, updates and releases. This will also help if you decide to use certain licenses that require this.
+* Keep all documentation and decision making in the open to increase transparancy. Avoid 'hallway decisions'
+* Add these within your README.md file or create separate files in your project repository
+* Add a [CHANGELOG.md](./CHANGELOG.md) file to track changes, updates and releases. This will also help if you decide to use certain licenses that require this.
