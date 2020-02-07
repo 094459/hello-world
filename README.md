@@ -39,7 +39,7 @@ Document the following:
 
 ## Code of Conduct
 
-Make sure you add a code of conduct (./CODE_OF_CONDUCT.md)
+Make sure you add a code of conduct [](./CODE_OF_CONDUCT.md)
 
 ## License
 
