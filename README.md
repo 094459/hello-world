@@ -1,6 +1,6 @@
 # How do contribute to open source like a pro
 
-![aws logo aws contribute, aws code, aws open source](./images/awsisopen.jpg)
+![aws logo aws contribute, aws code, aws open source](./images/awsisopen.jpeg "AWS Open Source")
 
 This is a test repository that will be used to show how to setup and manage a Github repository to manage an open source project.
 
