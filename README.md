@@ -1,14 +1,31 @@
-# How do contribute to open source like a pro.
+# How do contribute to open source like a pro
 
 This is a test repository that will be used to show how to setup and manage a Github repository to manage an open source project.
 
+## Layout
+
+Make sure you have the following sections and details in your readme file, and link to files to make it easier for people coming to your repository to click on the supporting info.
+
+1. Overview of Project
+2. How to contribute
+3. Project governance
+4. Code of Conduct
+5. License
+
+## Overview of project
+
 A good README.md, will be able to answer the following questions:
-* What is this project looking to achieve? 
+
+* What is this project looking to achieve ?
 * What is the vision and what are the problems you are looking to address
 * What does this project do?
 * Why is this project useful?
 * How do I get started?
 * Where can I get more help, if I need it?
+
+## How to contribute
+
+See the (./CONTRIBUTING.md) file
 
 ## Project Governance
 
@@ -20,7 +37,16 @@ Document the following:
 * Make sure you think about how you will identify and celebrate your contributors and contributions. Do you want to have a page or maybe you can share via social media.
 * What tools will you be using and what channels you will use to collaborate - IIRC, Slack, mailing lists for example.
 
-### Make sure you:
+## Code of Conduct
+
+Make sure you add a code of conduct (./CODE_OF_CONDUCT.md)
+
+## License
+
+If you do not add a license file it is not open source and no one will use this project. Think about what you want to achieve with this project and how different licenses will attract and help you build that community.
+
+### Make sure you
+
 Keep all documentation and decision making in the open to increase transparancy. Avoid 'hallway decisions'
 Add these within your README.md file or create separate files in your project repository
 Add a CHANGELOG.md file to track changes, updates and releases. This will also help if you decide to use certain licenses that require this.
