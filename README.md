@@ -27,7 +27,7 @@ A good README.md, will be able to answer the following questions:
 
 ## How to contribute
 
-See the (./CONTRIBUTING.md) file
+See the [CONTRIBUTING.md](./CONTRIBUTING.md) file
 
 ## Project Governance
 
