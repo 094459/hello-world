@@ -10,7 +10,6 @@ A good README.md, will be able to answer the following questions:
 * How do I get started?
 * Where can I get more help, if I need it?
 
-
 ## Project Governance
 
 You should add the following in your project to clearly communicate how contributions will impact this project. Transparancy is key and contributors should have a clear path from initial users, contributors to committers and technical design leads for a project.
