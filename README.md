@@ -23,3 +23,4 @@ Document the following:
 ### Make sure you:
 Keep all documentation and decision making in the open to increase transparancy. Avoid 'hallway decisions'
 Add these within your README.md file or create separate files in your project repository
+Add a CHANGELOG.md file to track changes, updates and releases. This will also help if you decide to use certain licenses that require this.
