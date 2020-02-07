@@ -1,6 +1,6 @@
 # Contributing
 
-### Helping people know what they have to do
+## Helping people know what they have to do
 
 You should make the process of how you want people to contribute to your projects crystal clear. This should include;
 
@@ -13,5 +13,9 @@ You should make the process of how you want people to contribute to your project
 * Related Repos - add additional projects you either need or related in some way to this project (and dont forget to detail the relationship)
 
 Make sure you link to this from your project README.me file
+
+## Templates
+
+Create a .github folder in your project, and then add a PULL_REQUEST_TEMPLATE.md file which will be used every time a PR is requested. This can help you enforce your contribution expections, link to CLA agreements or get confirmation around licensing of the code being committed.
 
 Please refer to https://opensource.guide/starting-a-project/ for further best practice and guidance.
