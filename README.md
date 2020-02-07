@@ -45,6 +45,8 @@ Make sure you add a [code of conduct file](./CODE_OF_CONDUCT.md)
 
 If you do not add a license file it is not open source and no one will use this project. Think about what you want to achieve with this project and how different licenses will attract and help you build that community.
 
+---
+
 ### Make sure you
 
 Keep all documentation and decision making in the open to increase transparancy. Avoid 'hallway decisions'
